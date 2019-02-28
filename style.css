@@ -1,0 +1,58 @@
+body {
+  background-color: silver;
+  margin: auto;
+}
+.name {
+  color: #ffffff;
+  background-color: teal;
+}
+
+.me {
+  color: teal;
+  font-weight: bold;
+}
+
+.header {
+  margin-bottom: 75px;
+}
+.section {
+  margin-left: 300px;
+  margin-top: 120x;
+  margin-right: 300px;
+  margin-bottom: 220px;
+
+  background-color: white;
+}
+
+.footer {
+  text-align: center;
+  background-color: gray;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.btn-primary {
+  background-color: teal;
+  border-color: teal;
+}
+
+.picture {
+  position: relative;
+  float: left;
+}
+
+.nav-link {
+  color: teal;
+}
+
+.figure-caption {
+  position: relative;
+  top: -40px;
+  font-size: 60%;
+  color: white;
+  background-color: teal;
+  text-align: center;
+}
+.one {
+  margin-left: 300px;
+  width: 640px;
+}
